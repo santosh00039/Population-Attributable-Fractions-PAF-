@@ -1,4 +1,5 @@
-# NDHS PAF Analysis Script (Link to paper: https://www.nature.com/articles/s41598-026-43908-8)
+# NDHS PAF Analysis Script 
+## Link to paper: https://www.nature.com/articles/s41598-026-43908-8
 
 This repository contains the R script used to reproduce the NDHS population attributable fraction analysis.
 
