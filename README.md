@@ -12,6 +12,12 @@ The script expects the input file at:
 
 The dataset is not included in this repository.
 
+## Important note
+
+This script **does not include variable definitions, data dictionaries, or preprocessing logic explanations**. It assumes prior knowledge of the dataset structure and variable construction.
+
+Researchers attempting to reproduce or adapt this analysis **must define their own variables and modelling logic based on their specific hypotheses**. The script should be treated as a structural reference for the analytical workflow, not a fully self-contained or plug-and-play pipeline.
+
 ## Run
 Open R in the project folder and run:
 
